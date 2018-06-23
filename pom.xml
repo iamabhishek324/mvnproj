@@ -13,7 +13,7 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
-            <version>7.0</version>
+            <version>0.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.231.252.255:8081/repository/maven-releases/</url>
+            <url>http://35.231.52.255:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
